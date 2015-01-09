@@ -120,7 +120,7 @@ if we roll a Strike , then a 3 two times, and then all zeros the score should be
 - roll '10' one time
 - roll '3' two times
 - roll '0' 16 times
-    - Score should be 15
+    - Score should be 22
 
 ---
 
