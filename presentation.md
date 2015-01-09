@@ -99,11 +99,11 @@ If all rolls are less than or equal to 4, the score is the sum of the rolls
 
 # Game with a single spare
 
-if we roll a 5 three times, and then all zeros the score should be 15
+if we roll a 5 three times, and then all zeros the score should be 20
 
 - roll '5' 3 times
 - roll '0' 17 times
-    - Score should be 15
+    - Score should be 20
 
 You may need to remove this test, refactor, then procede 
 
